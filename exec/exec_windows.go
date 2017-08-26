@@ -8,9 +8,9 @@ import (
 
 	"github.com/henrylee2cn/pholcus/config"
 
+	"github.com/etronlink/pholcus/web"   // web版
 	"github.com/henrylee2cn/pholcus/cmd" // cmd版
 	"github.com/henrylee2cn/pholcus/gui" // gui版
-	"github.com/henrylee2cn/pholcus/web" // web版
 )
 
 func run(which string) {
